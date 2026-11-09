@@ -1,0 +1,19 @@
+controller started at sim minute 0 (2027-01-04T00:00:00+05:30)
+day 2027-01-04 (sim minute 0)
+day 2027-01-05 (sim minute 1440)
+day 2027-01-06 (sim minute 2880)
+day 2027-01-07 (sim minute 4320)
+SIMULATED CRASH at sim minute 5040
+controller started at sim minute 5040 (2027-01-07T12:00:00+05:30)
+day 2027-01-07 (sim minute 5040)
+day 2027-01-08 (sim minute 5760)
+day 2027-01-09 (sim minute 7200)
+day 2027-01-10 (sim minute 8640)
+day 2027-01-11 (sim minute 10080)
+finished.
+
+Workflow summary (all ingested data):
+  ks_cancel    dials= 103482  pickup=0.250  engagement=0.495
+  nw_kyc       dials=  43241  pickup=0.252  engagement=0.588
+  nw_renewal   dials=  77614  pickup=0.268  engagement=0.543
+  leads stored: 72600, aggregate rows: 110
